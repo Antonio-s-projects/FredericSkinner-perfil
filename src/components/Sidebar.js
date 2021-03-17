@@ -6,7 +6,16 @@ const Sidebar = () => {
       <img src="${iconMenu}" alt="icon-menu"/>
     </section>
     <section class ="sidebar__date">
-      <p>1986</p>
+      <div class ="sidebar__container">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="sidebar__date--main">
+          <p>1986</p>
+          <div class="line-main"></div>
+        </div>
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
     </section>
   `;
 
