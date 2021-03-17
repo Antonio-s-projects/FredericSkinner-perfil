@@ -1,0 +1,37 @@
+/* bodoni-moda-regular - latin */
+@font-face {
+  font-family: 'Bodoni Moda';
+  font-style: normal;
+  font-weight: 400;
+  src: 
+       url('../static/fonts/bodoni-moda-v5-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../static/fonts/bodoni-moda-v5-latin-regular.woff') format('woff'), /* Modern Browsers */
+}
+
+/* roboto-regular - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: 
+       url('../static/fonts/roboto-v20-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../static/fonts/roboto-v20-latin-regular.woff') format('woff'), /* Modern Browsers */
+}
+/* roboto-500 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: 
+       url('../static/fonts/roboto-v20-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../static/fonts/roboto-v20-latin-500.woff') format('woff'), /* Modern Browsers */
+}
+/* roboto-700 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: 
+       url('../static/fonts/roboto-v20-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../static/fonts/roboto-v20-latin-700.woff') format('woff'), /* Modern Browsers */
+}
