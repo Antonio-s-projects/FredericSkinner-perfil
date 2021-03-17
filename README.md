@@ -8,3 +8,5 @@ Este es un proyecto en el cuál usé JS vanilla y puse en practica mis conocimie
 
 ## Importante!
 Para que puedas ver el despliegue del proyecto, da click en el siguiente link:
+
+[Frederic Skinner Perfil](https://frederic-skinner-perfil.netlify.app/ "Frederic Skinner Perfil")
